@@ -4,13 +4,11 @@ import { getFirestore, collection, addDoc, query, orderBy, onSnapshot, serverTim
 
 // Your Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBSgoo-ubgabnfYJYhflLBR75JljrUmQbA",
-  authDomain: "chat-website-68853.firebaseapp.com",
-  projectId: "chat-website-68853",
-  storageBucket: "chat-website-68853.appspot.com",
-  messagingSenderId: "654439557905",
-  appId: "1:654439557905:web:5cb26c9d18f971d78cfab0",
-  measurementId: "G-5C1JJV8N2L"
+
+
+ "*****Your API DATA****"
+
+
 };
 
 // Initialize Firebase
