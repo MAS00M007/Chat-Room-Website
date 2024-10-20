@@ -1,2 +1,2 @@
 <h1>Try it !!</h1>
-<href>https://relaxed-mermaid-814158.netlify.app/</href>
+<href>https://friendly-gaufre-c5cf9d.netlify.app/</href>
